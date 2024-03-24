@@ -1,0 +1,49 @@
+Requisitos
+Arte:
+- Tela de Loading (Nome dos alunos, logo Senai);
+- Tela Inicial (logotipo + menu);
+- Head-up Design;
+- Interface: Controles;
+- Animação: Jonathan andando;
+- Animação: Jonathan correndo;
+- Animação: Jonathan pulando;
+- Animação: Jonathan caindo;
+- Animação: Jonathan coletando itens;
+- Animação: Jonathan apanhando,
+- Tileset: viela;
+- Tileset #1:barracos, carro na frente;
+- Tileset #2: água ao redor, poça no meio;
+- Tileset #3: muros pixados ao redor, buraco no meio;
+- Tileset #4: grades ao redor, bueiro aberto no meio;
+- Props #1: árvore, moita;
+- Props #2: chafariz, fonte;
+- Props #3: half-pipe, rampa;
+- Background: Nuvens;
+- Interface: Pontuação;
+- Interface: Itens pra recolher: 10 cadernos,5 lápis,5 borrachas,3 réguas;
+- Desafios: Casca de Banana, Balde de Lixo,Carros;
+- Tela Final: 4 estados de pontuação;
+- Tela Final: (Ranking?) e jogar novamente;
+
+Música e Sons:
+- Música da tela de abertura;
+- 4 Músicas de Levels;
+- Som: clicar;
+- Som: pulo;
+- Som: pegar item;
+- Som: ser alcançado;
+- Som: mãe gritando;
+
+Programação:
+- Loading;
+- Tela de abertura com botão;
+- Tela se movendo automaticamente;
+- Jonathan seguindo a tela;
+- Câmera seguindo personagem;
+- Pulo do Jonathan;
+- Pulo duplo do Jonathan;
+- Recolher itens, pontuar e exibi-los na tela;
+- Terminar fase e começar outra mais rápido;
+- Morrer;
+- Enviar pontos para o ranking (form PHP);?
+- Botão para reiniciar: volta para inicio da fase.

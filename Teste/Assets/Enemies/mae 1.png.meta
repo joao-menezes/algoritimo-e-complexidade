@@ -1,0 +1,1021 @@
+fileFormatVersion: 2
+guid: 0dd016054ee7b384d9ae2064bebb7b88
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7285857839904066931
+    second: mae 1_0
+  - first:
+      213: -3527782110705583534
+    second: mae 1_1
+  - first:
+      213: -2481064134853145860
+    second: mae 1_2
+  - first:
+      213: 276640344797235696
+    second: mae 1_3
+  - first:
+      213: -6125085708772901737
+    second: mae 1_4
+  - first:
+      213: -3929754264003632583
+    second: mae 1_5
+  - first:
+      213: 4398875817364277909
+    second: mae 1_6
+  - first:
+      213: -2694529759950936468
+    second: mae 1_7
+  - first:
+      213: -7411803292855041862
+    second: mae 1_8
+  - first:
+      213: 1172857806099825113
+    second: mae 1_9
+  - first:
+      213: -2131544044580553536
+    second: mae 1_10
+  - first:
+      213: -5281026284192242166
+    second: mae 1_11
+  - first:
+      213: -5350944850295899642
+    second: mae 1_12
+  - first:
+      213: -769165750232860774
+    second: mae 1_13
+  - first:
+      213: -596782992213065723
+    second: mae 1_14
+  - first:
+      213: 2106695386644056683
+    second: mae 1_15
+  - first:
+      213: 5730623459080562293
+    second: mae 1_16
+  - first:
+      213: 1207090267172291198
+    second: mae 1_17
+  - first:
+      213: -6104543213293709989
+    second: mae 1_18
+  - first:
+      213: -2551231070846187913
+    second: mae 1_19
+  - first:
+      213: -5500378805740580752
+    second: mae 1_20
+  - first:
+      213: 3206484470836683484
+    second: mae 1_21
+  - first:
+      213: 1077407980548364733
+    second: mae 1_22
+  - first:
+      213: -2451016733048667036
+    second: mae 1_23
+  - first:
+      213: 2607543184174703974
+    second: mae 1_24
+  - first:
+      213: -5166725698545466
+    second: mae 1_25
+  - first:
+      213: 5272196439521970689
+    second: mae 1_26
+  - first:
+      213: -6942004014882807751
+    second: mae 1_27
+  - first:
+      213: 49268110117230501
+    second: mae 1_28
+  - first:
+      213: -8528383812966624618
+    second: mae 1_29
+  - first:
+      213: 6549734095186921785
+    second: mae 1_30
+  - first:
+      213: -9177385385133668050
+    second: mae 1_31
+  - first:
+      213: 9071295977410420722
+    second: mae 1_32
+  - first:
+      213: -2160490579294455349
+    second: mae 1_33
+  - first:
+      213: -4213674562542835957
+    second: mae 1_34
+  - first:
+      213: -3352489628130139278
+    second: mae 1_35
+  - first:
+      213: -4625902433852397212
+    second: mae 1_36
+  - first:
+      213: -4893655280886134128
+    second: mae 1_37
+  - first:
+      213: -8699992339953254863
+    second: mae 1_38
+  - first:
+      213: 6789742474223065009
+    second: mae 1_39
+  - first:
+      213: 8971454078638392294
+    second: mae 1_40
+  - first:
+      213: -6533958391104468633
+    second: mae 1_41
+  - first:
+      213: -6896466361802365323
+    second: mae 1_42
+  - first:
+      213: 2547959274738771271
+    second: mae 1_43
+  - first:
+      213: -3142628773319834487
+    second: mae 1_44
+  - first:
+      213: -1592181643191371730
+    second: mae 1_45
+  - first:
+      213: -7659821445539994218
+    second: mae 1_46
+  - first:
+      213: -2894967043759313874
+    second: mae 1_47
+  - first:
+      213: -2201578943708949731
+    second: mae 1_48
+  - first:
+      213: 7194850866044335173
+    second: mae 1_49
+  - first:
+      213: 5590520850281654442
+    second: mae 1_50
+  - first:
+      213: 8800335071732147678
+    second: mae 1_51
+  - first:
+      213: -6883565846010858577
+    second: mae 1_52
+  - first:
+      213: 5944606619997356159
+    second: mae 1_53
+  - first:
+      213: 4711734751436450079
+    second: mae 1_54
+  - first:
+      213: 8870698932728797220
+    second: mae 1_55
+  - first:
+      213: 866326710751624242
+    second: mae 1_56
+  - first:
+      213: 7648320480079649572
+    second: mae 1_57
+  - first:
+      213: 2205479730618938856
+    second: mae 1_58
+  - first:
+      213: -6737412513291953813
+    second: mae 1_59
+  - first:
+      213: -1978919267409209474
+    second: mae 1_60
+  - first:
+      213: 8180991310780788715
+    second: mae 1_61
+  - first:
+      213: 1662729208723714935
+    second: mae 1_62
+  - first:
+      213: 5658680315180502655
+    second: mae 1_63
+  - first:
+      213: 8828171471843683178
+    second: mae 1_64
+  - first:
+      213: 2245605613284730093
+    second: mae 1_65
+  - first:
+      213: -8287722882812144580
+    second: mae 1_66
+  - first:
+      213: -8577708585303583121
+    second: mae 1_67
+  - first:
+      213: -8810239145232012630
+    second: mae 1_68
+  - first:
+      213: 1113189714946182878
+    second: mae 1_69
+  - first:
+      213: -821414436560359495
+    second: mae 1_70
+  - first:
+      213: 4468087370444599737
+    second: mae 1_71
+  - first:
+      213: -5353383981234141738
+    second: mae 1_72
+  - first:
+      213: 7212992319920864177
+    second: mae 1_73
+  - first:
+      213: 5178084569805925689
+    second: mae 1_74
+  - first:
+      213: 2234915044668013921
+    second: mae 1_75
+  - first:
+      213: 7626366673988823730
+    second: mae 1_76
+  - first:
+      213: 3907553200158011092
+    second: mae 1_77
+  - first:
+      213: -7752429877117470519
+    second: mae 1_78
+  - first:
+      213: -2150578696664260247
+    second: mae 1_79
+  - first:
+      213: 917388545133454451
+    second: mae 1_80
+  - first:
+      213: -5463200514547522816
+    second: mae 1_81
+  - first:
+      213: 3465534280296303732
+    second: mae 1_82
+  - first:
+      213: 941347294593186133
+    second: mae 1_83
+  - first:
+      213: -4687457474309836609
+    second: mae 1_84
+  - first:
+      213: 8082086713819065008
+    second: mae 1_85
+  - first:
+      213: -1917916220212872202
+    second: mae 1_86
+  - first:
+      213: 6260638877923215076
+    second: mae 1_87
+  - first:
+      213: -7729871296010387335
+    second: mae 1_88
+  - first:
+      213: 7671053979222084239
+    second: mae 1_89
+  - first:
+      213: -7786154651229714037
+    second: mae 1_90
+  - first:
+      213: -7380727676242122602
+    second: mae 1_0
+  - first:
+      213: -4591827675256240330
+    second: mae 1_1
+  - first:
+      213: -3729936433140827153
+    second: mae 1_2
+  - first:
+      213: -4123327170256823109
+    second: mae 1_3
+  - first:
+      213: 2855278674082085891
+    second: mae 1_4
+  - first:
+      213: -5525354799634722717
+    second: mae 1_5
+  - first:
+      213: -1595205535344731278
+    second: mae 1_6
+  - first:
+      213: 1763369668237452863
+    second: mae 1_7
+  - first:
+      213: 4680082262360823355
+    second: mae 1_8
+  - first:
+      213: -1431849045424778361
+    second: mae 1_9
+  - first:
+      213: 1328252740212855228
+    second: mae 1_10
+  - first:
+      213: 71426541374436413
+    second: mae 1_11
+  - first:
+      213: 7362272092682014223
+    second: mae 1_12
+  - first:
+      213: -5234968586256814205
+    second: mae 1_14
+  - first:
+      213: 2358375333740744950
+    second: mae 1_15
+  - first:
+      213: -658072877367838454
+    second: mae 1_16
+  - first:
+      213: -8577747756379456477
+    second: mae 1_17
+  - first:
+      213: -779003715896098112
+    second: mae 1_18
+  - first:
+      213: 2165183665670691404
+    second: mae 1_19
+  - first:
+      213: -8373430694012524124
+    second: mae 1_20
+  - first:
+      213: 8835263601492590778
+    second: mae 1_21
+  - first:
+      213: -8742829165037818751
+    second: mae 1_22
+  - first:
+      213: 5132954820770039106
+    second: mae 1_23
+  - first:
+      213: 6068404108956463815
+    second: mae 1_24
+  - first:
+      213: 1328217990929386349
+    second: mae 1_27
+  - first:
+      213: -81429909425474328
+    second: mae 1_36
+  - first:
+      213: -692130566591957242
+    second: mae 1_43
+  - first:
+      213: 2819840921449839270
+    second: mae 1_45
+  - first:
+      213: -386832212185978920
+    second: mae 1_67
+  - first:
+      213: 3375821577897098418
+    second: mae 1_73
+  - first:
+      213: -1320086407053082932
+    second: mae 1_74
+  - first:
+      213: -932304406430638395
+    second: mae 1_85
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mae 1_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1291
+        width: 70
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698a1b18843629990800000000000000
+      internalID: -7380727676242122602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mae 1_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1290
+        width: 76
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6374b82de0d8640c0800000000000000
+      internalID: -4591827675256240330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mae 1_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1290
+        width: 76
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb7adb739a9c3cc0800000000000000
+      internalID: -3729936433140827153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mae 1_3
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1290
+        width: 76
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc1024f8cff6c6c0800000000000000
+      internalID: -4123327170256823109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mae 1_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1159
+        width: 72
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c396f73dcff9720800000000000000
+      internalID: 2855278674082085891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mae 1_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1159
+        width: 73
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360d5c5951ff153b0800000000000000
+      internalID: -5525354799634722717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mae 1_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1158
+        width: 77
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b5a027401bcd9e0800000000000000
+      internalID: -1595205535344731278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mae 1_7
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1159
+        width: 73
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36edfade5fb87810800000000000000
+      internalID: 1763369668237452863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mae 1_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1159
+        width: 73
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b369f9f750ef2f040800000000000000
+      internalID: 4680082262360823355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mae 1_9
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1159
+        width: 76
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783597321ec012ce0800000000000000
+      internalID: -1431849045424778361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mae 1_10
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1018
+        width: 73
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1935074d6ee6210800000000000000
+      internalID: 1328252740212855228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mae 1_11
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1020
+        width: 75
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34782a9f02cdf000800000000000000
+      internalID: 71426541374436413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mae 1_12
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1130
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e4518167b0c2660800000000000000
+      internalID: 7362272092682014223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mae 1_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1020
+        width: 79
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f65dd8ec7a957b0800000000000000
+      internalID: -5234968586256814205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mae 1_15
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1020
+        width: 80
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f019aeeed1aab020800000000000000
+      internalID: 2358375333740744950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mae 1_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1020
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09bb24643e0ed6f0800000000000000
+      internalID: -658072877367838454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mae 1_17
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1020
+        width: 84
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c3918ccd7b5f880800000000000000
+      internalID: -8577747756379456477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mae 1_18
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 686
+        width: 64
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2cd4b6f3c6035f0800000000000000
+      internalID: -779003715896098112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mae 1_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 688
+        width: 93
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a97c182174c0e10800000000000000
+      internalID: 2165183665670691404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mae 1_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 661
+        width: 97
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9e70ce5299bcb80800000000000000
+      internalID: -8373430694012524124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mae 1_21
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 781
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab087ef2f692d9a70800000000000000
+      internalID: 8835263601492590778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mae 1_22
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 760
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ceef5223b3ba680800000000000000
+      internalID: -8742829165037818751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mae 1_23
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 725
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2458024c63beb3740800000000000000
+      internalID: 5132954820770039106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mae 1_24
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 747
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2fed3a26d473450800000000000000
+      internalID: 6068404108956463815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mae 1_27
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 385
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b01adb937ce6210800000000000000
+      internalID: 1328217990929386349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

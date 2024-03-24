@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: ad37ce32792feb3418219e3d6a935c8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1661641434141817936
+    second: pe na jaca_0
+  - first:
+      213: -7176653442758707094
+    second: pe na jaca_1
+  - first:
+      213: 6733363515525729678
+    second: pe na jaca_2
+  - first:
+      213: -427165272339307472
+    second: pe na jaca_3
+  - first:
+      213: 8480994364192866548
+    second: pe na jaca_4
+  - first:
+      213: 5102098899886483294
+    second: pe na jaca_5
+  - first:
+      213: -6689562523409519019
+    second: pe na jaca_6
+  - first:
+      213: -6246682814436582203
+    second: pe na jaca_7
+  - first:
+      213: -1632497770402562045
+    second: pe na jaca_8
+  - first:
+      213: 3801588931448142740
+    second: pe na jaca_9
+  - first:
+      213: 1346001247842779625
+    second: pe na jaca_10
+  - first:
+      213: -8604758162754936817
+    second: pe na jaca_11
+  - first:
+      213: -5657774485552777245
+    second: pe na jaca_12
+  - first:
+      213: 2205507948339763545
+    second: pe na jaca_13
+  - first:
+      213: -2561326152378432709
+    second: pe na jaca_14
+  - first:
+      213: 8256577928122595524
+    second: pe na jaca_15
+  - first:
+      213: 968197945070263266
+    second: pe na jaca_16
+  - first:
+      213: -8194710322860368308
+    second: pe na jaca_17
+  - first:
+      213: 7930679166543641231
+    second: pe na jaca_18
+  - first:
+      213: 4972783852690949418
+    second: pe na jaca_19
+  - first:
+      213: 4080791160055045944
+    second: pe na jaca_20
+  - first:
+      213: 3533852019962351893
+    second: pe na jaca_21
+  - first:
+      213: -3976808302126760381
+    second: pe na jaca_22
+  - first:
+      213: -2258380526377856218
+    second: pe na jaca_23
+  - first:
+      213: 7841565804980914013
+    second: pe na jaca_24
+  - first:
+      213: -8577978444302122002
+    second: pe na jaca_1
+  - first:
+      213: -2230276355250354356
+    second: pe na jaca_0
+  - first:
+      213: -1498052676843121130
+    second: pe na jaca_2
+  - first:
+      213: -7025138513651007298
+    second: pe na jaca_3
+  - first:
+      213: 8682895189008358185
+    second: pe na jaca_7
+  - first:
+      213: -1389663331346329765
+    second: pe na jaca_17
+  - first:
+      213: -3884712632380011024
+    second: pe na jaca_22
+  - first:
+      213: 2998858566964126363
+    second: pe na jaca_23
+  - first:
+      213: -9082749989006946770
+    second: pe na jaca_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pe na jaca_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 406
+        width: 140
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47895ea8777c01e0800000000000000
+      internalID: -2230276355250354356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pe na jaca_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 395
+        width: 76
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a687844a7b7676c90800000000000000
+      internalID: -7176653442758707094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pe na jaca_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 407
+        width: 127
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61651f50709d53be0800000000000000
+      internalID: -1498052676843121130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pe na jaca_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 192
+        width: 115
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb08aeb1eb1b18e90800000000000000
+      internalID: -7025138513651007298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pe na jaca_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 184
+        width: 223
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b9ac2ab27df7870800000000000000
+      internalID: 8682895189008358185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pe na jaca_12
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 225
+        width: 88
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7bb51e41c8b71b0800000000000000
+      internalID: -5657774485552777245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pe na jaca_14
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 252
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33c0955f67547cd0800000000000000
+      internalID: -2561326152378432709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pe na jaca_16
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 241
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb1d2cb6eabf6d00800000000000000
+      internalID: 968197945070263266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pe na jaca_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 44
+        width: 245
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92a88f5af51e9920800000000000000
+      internalID: 2998858566964126363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pe na jaca_24
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 43
+        width: 264
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ece89e10793f180800000000000000
+      internalID: -9082749989006946770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,622 @@
+fileFormatVersion: 2
+guid: d3cfbc2d979b48a4a840b90c4787a2f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6150335934420235564
+    second: fernandinho_0
+  - first:
+      213: -3645320583973551270
+    second: fernandinho_1
+  - first:
+      213: -3628215605692917565
+    second: fernandinho_2
+  - first:
+      213: 7028094023948334571
+    second: fernandinho_3
+  - first:
+      213: 9042943826624274450
+    second: fernandinho_4
+  - first:
+      213: 4116083440217770856
+    second: fernandinho_5
+  - first:
+      213: -9050559883786056028
+    second: fernandinho_6
+  - first:
+      213: -3958517389764924358
+    second: fernandinho_7
+  - first:
+      213: -4901252051291960288
+    second: fernandinho_8
+  - first:
+      213: -1680949702697567832
+    second: fernandinho_9
+  - first:
+      213: 5946232461945196557
+    second: fernandinho_10
+  - first:
+      213: -8288373701679852538
+    second: fernandinho_11
+  - first:
+      213: -6961055089219869940
+    second: fernandinho_12
+  - first:
+      213: 2438245146300248165
+    second: fernandinho_13
+  - first:
+      213: 5552898772748680673
+    second: fernandinho_14
+  - first:
+      213: 5138634794066325320
+    second: fernandinho_15
+  - first:
+      213: 7861328052262045213
+    second: fernandinho_16
+  - first:
+      213: -5878199927922847306
+    second: fernandinho_17
+  - first:
+      213: 3438190073297040549
+    second: fernandinho_18
+  - first:
+      213: 5469779213326766405
+    second: fernandinho_19
+  - first:
+      213: 6968488412651546688
+    second: fernandinho_20
+  - first:
+      213: -7209782685524827465
+    second: fernandinho_21
+  - first:
+      213: -8904014496822831954
+    second: fernandinho_22
+  - first:
+      213: -4102164975817275109
+    second: fernandinho_23
+  - first:
+      213: -4971410591313687707
+    second: fernandinho_24
+  - first:
+      213: 4826803584741776215
+    second: fernandinho_25
+  - first:
+      213: -4890850395063248941
+    second: fernandinho_26
+  - first:
+      213: 2204773140560865203
+    second: fernandinho_27
+  - first:
+      213: -4529838453075090318
+    second: fernandinho_28
+  - first:
+      213: -2983473642460611031
+    second: fernandinho_29
+  - first:
+      213: 2149639329012998019
+    second: fernandinho_30
+  - first:
+      213: -4177235036340150667
+    second: fernandinho_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fernandinho_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 227
+        width: 19
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560fb8cca0366d120800000000000000
+      internalID: 2438245146300248165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fernandinho_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 228
+        width: 23
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed3367630cdf0d40800000000000000
+      internalID: 5552898772748680673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fernandinho_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 226
+        width: 33
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f29ca9e19105740800000000000000
+      internalID: 5138634794066325320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fernandinho_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 225
+        width: 23
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1684e1663c091d60800000000000000
+      internalID: 7861328052262045213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fernandinho_17
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 228
+        width: 36
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b19e614f407c6ea0800000000000000
+      internalID: -5878199927922847306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fernandinho_18
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 228
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4f425c7a7e6bf20800000000000000
+      internalID: 3438190073297040549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fernandinho_19
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 227
+        width: 23
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5415822e63f88eb40800000000000000
+      internalID: 5469779213326766405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fernandinho_20
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 226
+        width: 19
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04865896a4b05b060800000000000000
+      internalID: 6968488412651546688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fernandinho_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 228
+        width: 16
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2e789b8d4b1fb90800000000000000
+      internalID: -7209782685524827465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fernandinho_22
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 227
+        width: 18
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea452f99df59e6480800000000000000
+      internalID: -8904014496822831954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fernandinho_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 228
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19cc5e40be2217c0800000000000000
+      internalID: -4102164975817275109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fernandinho_24
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 143
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b02282860020bb0800000000000000
+      internalID: -4971410591313687707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fernandinho_25
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 148
+        width: 22
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b9d1d69404cf240800000000000000
+      internalID: 4826803584741776215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fernandinho_26
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 148
+        width: 19
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d71da08a75302cb0800000000000000
+      internalID: -4890850395063248941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fernandinho_27
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 143
+        width: 23
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7e37d6d7de89e10800000000000000
+      internalID: 2204773140560865203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fernandinho_28
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 142
+        width: 34
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274ed825de7c221c0800000000000000
+      internalID: -4529838453075090318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fernandinho_29
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 147
+        width: 23
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ef46087829896d0800000000000000
+      internalID: -2983473642460611031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fernandinho_30
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 148
+        width: 22
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f5709949d05dd10800000000000000
+      internalID: 2149639329012998019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fernandinho_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 149
+        width: 25
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e11abcdda7706c0800000000000000
+      internalID: -4177235036340150667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

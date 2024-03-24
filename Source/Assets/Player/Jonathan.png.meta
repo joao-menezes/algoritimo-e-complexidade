@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: c4f62c2b3d532b14e9a777e35b2574ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4138130560931457409
+    second: Jonathan_0
+  - first:
+      213: 4357037294723230187
+    second: Jonathan_1
+  - first:
+      213: -1700139748440819900
+    second: Jonathan_2
+  - first:
+      213: -8769195550835224020
+    second: Jonathan_3
+  - first:
+      213: -4659871035536822975
+    second: Jonathan_4
+  - first:
+      213: 1430482798626709112
+    second: Jonathan_5
+  - first:
+      213: -8914742892346634963
+    second: Jonathan_6
+  - first:
+      213: 7227379045082901928
+    second: Jonathan_7
+  - first:
+      213: -2331982182332097903
+    second: Jonathan_8
+  - first:
+      213: -1183363294234067552
+    second: Jonathan_9
+  - first:
+      213: 6161327252045328680
+    second: Jonathan_10
+  - first:
+      213: -75832933969879585
+    second: Jonathan_11
+  - first:
+      213: 4316970543194224226
+    second: Jonathan_12
+  - first:
+      213: 1175032620238507963
+    second: Jonathan_13
+  - first:
+      213: 2180251390928959242
+    second: Jonathan_14
+  - first:
+      213: -7807546304598337584
+    second: Jonathan_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jonathan_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 690
+        width: 123
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189e18602d79d6930800000000000000
+      internalID: 4138130560931457409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jonathan_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 689
+        width: 123
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be96b11c55e477c30800000000000000
+      internalID: 4357037294723230187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jonathan_2
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 690
+        width: 123
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447b9a118e3e768e0800000000000000
+      internalID: -1700139748440819900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jonathan_3
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 691
+        width: 123
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22d7829b1f8d4680800000000000000
+      internalID: -8769195550835224020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jonathan_4
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 692
+        width: 188
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d22b37bffc45fb0800000000000000
+      internalID: -4659871035536822975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jonathan_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 132
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e937db6881ad310800000000000000
+      internalID: 1430482798626709112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jonathan_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 377
+        width: 158
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d8dbd5298784480800000000000000
+      internalID: -8914742892346634963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jonathan_7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 378
+        width: 169
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ada44ff2fecc4460800000000000000
+      internalID: 7227379045082901928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jonathan_8
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 377
+        width: 155
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a1e8f7f8223afd0800000000000000
+      internalID: -2331982182332097903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jonathan_9
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 377
+        width: 139
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad31f68a59d39fe0800000000000000
+      internalID: -1183363294234067552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jonathan_10
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 378
+        width: 151
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821781bdd7e618550800000000000000
+      internalID: 6161327252045328680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jonathan_11
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 79
+        width: 153
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd137c295692fef0800000000000000
+      internalID: -75832933969879585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jonathan_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 80
+        width: 176
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266bae436d5f8eb30800000000000000
+      internalID: 4316970543194224226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jonathan_13
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 80
+        width: 174
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf00d841fd8e4010800000000000000
+      internalID: 1175032620238507963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jonathan_14
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 80
+        width: 172
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a073f5da61fc14e10800000000000000
+      internalID: 2180251390928959242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jonathan_15
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 80
+        width: 229
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7900b800606a390800000000000000
+      internalID: -7807546304598337584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

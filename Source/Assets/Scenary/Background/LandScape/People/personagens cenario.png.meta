@@ -1,0 +1,1459 @@
+fileFormatVersion: 2
+guid: 23d71952801d4574d9037a9bd71c177a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: personagens cenario_0
+  - first:
+      213: 21300002
+    second: personagens cenario_1
+  - first:
+      213: 21300004
+    second: personagens cenario_2
+  - first:
+      213: 21300006
+    second: personagens cenario_3
+  - first:
+      213: 21300008
+    second: personagens cenario_4
+  - first:
+      213: 21300010
+    second: personagens cenario_5
+  - first:
+      213: 21300012
+    second: personagens cenario_6
+  - first:
+      213: 21300014
+    second: personagens cenario_7
+  - first:
+      213: 21300016
+    second: personagens cenario_8
+  - first:
+      213: 21300018
+    second: personagens cenario_9
+  - first:
+      213: 21300020
+    second: personagens cenario_10
+  - first:
+      213: 21300022
+    second: personagens cenario_11
+  - first:
+      213: 21300024
+    second: personagens cenario_12
+  - first:
+      213: 21300026
+    second: personagens cenario_13
+  - first:
+      213: 21300028
+    second: personagens cenario_14
+  - first:
+      213: 21300030
+    second: personagens cenario_15
+  - first:
+      213: 21300032
+    second: personagens cenario_16
+  - first:
+      213: 21300034
+    second: personagens cenario_17
+  - first:
+      213: 21300036
+    second: personagens cenario_18
+  - first:
+      213: 21300038
+    second: personagens cenario_19
+  - first:
+      213: 21300040
+    second: personagens cenario_20
+  - first:
+      213: 21300042
+    second: personagens cenario_21
+  - first:
+      213: 21300044
+    second: personagens cenario_22
+  - first:
+      213: 21300046
+    second: personagens cenario_23
+  - first:
+      213: 21300048
+    second: personagens cenario_24
+  - first:
+      213: 21300050
+    second: personagens cenario_25
+  - first:
+      213: 21300052
+    second: personagens cenario_26
+  - first:
+      213: 21300054
+    second: personagens cenario_27
+  - first:
+      213: 21300056
+    second: personagens cenario_28
+  - first:
+      213: 21300058
+    second: personagens cenario_29
+  - first:
+      213: 21300060
+    second: personagens cenario_30
+  - first:
+      213: 21300062
+    second: personagens cenario_31
+  - first:
+      213: 21300064
+    second: personagens cenario_32
+  - first:
+      213: 21300066
+    second: personagens cenario_33
+  - first:
+      213: 21300068
+    second: personagens cenario_34
+  - first:
+      213: 21300070
+    second: personagens cenario_35
+  - first:
+      213: 21300072
+    second: personagens cenario_36
+  - first:
+      213: 21300074
+    second: personagens cenario_37
+  - first:
+      213: 21300076
+    second: personagens cenario_38
+  - first:
+      213: 21300078
+    second: personagens cenario_39
+  - first:
+      213: 21300080
+    second: personagens cenario_40
+  - first:
+      213: 21300082
+    second: personagens cenario_41
+  - first:
+      213: 21300084
+    second: personagens cenario_42
+  - first:
+      213: 21300086
+    second: personagens cenario_43
+  - first:
+      213: 21300088
+    second: personagens cenario_44
+  - first:
+      213: 21300090
+    second: personagens cenario_45
+  - first:
+      213: 21300092
+    second: personagens cenario_46
+  - first:
+      213: 21300094
+    second: personagens cenario_47
+  - first:
+      213: 21300096
+    second: personagens cenario_48
+  - first:
+      213: 21300098
+    second: personagens cenario_49
+  - first:
+      213: 21300100
+    second: personagens cenario_50
+  - first:
+      213: 21300102
+    second: personagens cenario_51
+  - first:
+      213: 21300104
+    second: personagens cenario_52
+  - first:
+      213: 21300106
+    second: personagens cenario_53
+  - first:
+      213: 21300108
+    second: personagens cenario_54
+  - first:
+      213: 21300110
+    second: personagens cenario_55
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: personagens cenario_0
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2158
+        width: 279
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2579f844b3c976f43a5c3c8dad9b6db2
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_1
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 2125
+        width: 657
+        height: 896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000d972c48a1d504a8d9bdff72b78e3c
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_2
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 2193
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ac4ee82866bbb4fb7f47335499cfb7
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_3
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 2157
+        width: 281
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc7791057615e7418a805e7cf74998a
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_4
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 2193
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a941d7587ddf1fa40888594793b8cebe
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_5
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 2158
+        width: 348
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e4cc04c105c1f4c9254f3189bd6d45
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_6
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 2193
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79111a04079dd134c8c31b26acee9c1d
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_7
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 2158
+        width: 281
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f94efea2b55cf7428130ea500fb8b36
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_8
+      rect:
+        serializedVersion: 2
+        x: 2893
+        y: 2160
+        width: 4
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f8e14592ec5a14aa7830cf80232ed2
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_9
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2159
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56be4bc87948a72459ea9ca9223fb596
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_10
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2125
+        width: 5
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd13b8bb68b8fda4a860c1f57815c91c
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_11
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 2125
+        width: 5
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a728093ed53ae0846b151a89c4713c84
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_12
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 2159
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a828e7c4a073d642bb16f3498e8c381
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_13
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 2159
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadbddac0ab503a42bd26daf322d2c34
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_14
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 2125
+        width: 5
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296aa4edd338c5c41a2b4ef8e1a343c3
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_15
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 2125
+        width: 5
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e18b57817aae147a5a6e38afdbf883
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_16
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 2159
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df229cc5770636044a288a1c7add3a5e
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_17
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 2159
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393868ed3004c074ca47936f8021377b
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_18
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 2125
+        width: 8
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8026a9573b5b4b24da3f1fd207edcaf6
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_19
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 2125
+        width: 5
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecec54267fb23b4f99c61afe21d6502
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_20
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 2159
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b6836c1db04b847bd3011c8d9abcc2
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_21
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 2159
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67cab31b5e82c643ae7a16cebfef04c
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_22
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2125
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42c09ce0fc2a734a9ca9f426ada7360
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_23
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 2125
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0ae13c74f061a48b283232aa83662e
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_24
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1199
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855755cc40e79eb4da48a35280c9494a
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_25
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1165
+        width: 348
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76da17101ba568f4f808a3812b51dac5
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_26
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1165
+        width: 451
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87318be852f0e7e4a9f54c5c3a0991dd
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_27
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1199
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6449fbedff178354f81f32414774b71f
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_28
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1165
+        width: 416
+        height: 895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7526984fd4fba841b59701d5d3f7915
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_29
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1165
+        width: 351
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccd61d87de2bba4a90d7f9702ca441d
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_30
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 1165
+        width: 284
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e58008bc4a92c478a24cd938f25c1e
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_31
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 1165
+        width: 6
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1c7486fc0c85d468f30899c6443707
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_32
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 1165
+        width: 351
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c007a443fa5b74281d96818eb91198
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_33
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 1166
+        width: 7
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a526a4c783716054cb61d444be78fa72
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_34
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1165
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb2557ffde30af48a4c98266711dd35
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_35
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1131
+        width: 5
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ad52acc1aff644d865489cce4dcc45
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_36
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1131
+        width: 5
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6ca09ce61fcf140ae1ba1efd7ff2df
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_37
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1132
+        width: 5
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccada5fabc8bbe1418c4eff35538730a
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_38
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1165
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96377b51c68f4b344ada9e92bf462bc0
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_39
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1131
+        width: 4
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57264842a1a684846aaf305ddf5e694a
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_40
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1131
+        width: 5
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2c4c30fa3eb454c811256354855b91
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_41
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 1132
+        width: 5
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324a794ac82a6f741875559bce4632f0
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_42
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 170
+        width: 523
+        height: 931
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78363190bc9fddf40a7b10360faa95b2
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_43
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 170
+        width: 347
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca426f1b174f5448837d1b511cdea5c
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_44
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 235
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1deb1e86699d1484d8f2908a7fb94487
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_45
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 170
+        width: 279
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c17f37032defab4e89b9b8231a23e36
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_46
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 170
+        width: 348
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247b4fae958d680459a5cbb0d5cfa505
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_47
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 170
+        width: 287
+        height: 829
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b05c4a4da90eb409bcdedcaeef2d60
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_48
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 170
+        width: 346
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffae4540bf645f4dbcde53b2dc0600c
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_49
+      rect:
+        serializedVersion: 2
+        x: 2893
+        y: 197
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d97a8b05ac93a444b3bda63770d3084
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_50
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 138
+        width: 5
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73851f9784ec1fe4095d9b26fae1429e
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_51
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 170
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ea165700340194d9810c4b6d1b71dd
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_52
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 137
+        width: 5
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85b28881d7269545858c8d01b92f33a
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_53
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 137
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed8d2d1199db2b4bbedad3718170091
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_54
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 138
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87be61c31fd99ab4f980141c17300e2f
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagens cenario_55
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 137
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16482fbda77a17d48862b812779f7a16
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dd6f45a774c265e478c877220e2a0582
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
